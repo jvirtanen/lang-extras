@@ -11,7 +11,7 @@
 
   <groupId>org.jvirtanen.lang</groupId>
   <artifactId>lang-extras</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
 
   <name>Lang Extras</name>
   <description>Extensions to Java Lang API.</description>
@@ -35,7 +35,7 @@
     <connection>scm:git:git@github.com:jvirtanen/lang-extras.git</connection>
     <developerConnection>scm:git:git@github.com:jvirtanen/lang-extras.git</developerConnection>
     <url>https://github.com/jvirtanen/lang-extras</url>
-    <tag>lang-extras-0.1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
