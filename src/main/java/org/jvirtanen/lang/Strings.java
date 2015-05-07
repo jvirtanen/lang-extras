@@ -9,7 +9,7 @@ public class Strings {
     }
 
     /**
-     * Decode an two-character ASCII string from a short.
+     * Decode a two-character ASCII string from a short.
      *
      * @param s a short
      * @return a string
@@ -21,7 +21,7 @@ public class Strings {
     }
 
     /**
-     * Decode an four-character ASCII string from an int.
+     * Decode a four-character ASCII string from an int.
      *
      * @param i an int
      * @return a string
