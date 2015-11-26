@@ -3,6 +3,8 @@ Lang Extras
 
 Lang Extras contains extensions to Java Lang API.
 
+Lang Extras requires Java Runtime Environment (JRE) 7 or newer.
+
 
 Download
 --------
